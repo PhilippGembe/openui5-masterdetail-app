@@ -1,6 +1,5 @@
 {
 	"_version": "1.2.0",
-  "start_url": "index.html",
 
 	"sap.app": {
 		"_version": "1.2.0",
@@ -9,11 +8,7 @@
 		"i18n": "i18n/i18n.properties",
 		"title": "{{appTitle}}",
 		"description": "{{appDescription}}",
-		"tags": {
-            "keywords": [
-                "{{appKeyword1}}", "{{appKeyword2}}"
-            ]
-    },
+
 		"applicationVersion": {
 			"version": "1.0.0"
 		},
